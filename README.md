@@ -1,2 +1,2 @@
-# hesapli
+# Hesaplı
 Basit Bir Hesap Makinesi
